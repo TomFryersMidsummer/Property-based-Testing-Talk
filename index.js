@@ -31,10 +31,3 @@ export function cartesianProduct(a) {
         [[]],
     );
 }
-
-// * Doesn't crash.
-// * Not undefined.
-// * Test your implementation against a correct one.
-// * Inverses.
-// * Idempotence. f(f(x)) = f(x).
-// * f(g(x)) = f(x)
