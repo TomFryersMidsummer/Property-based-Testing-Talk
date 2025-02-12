@@ -1,0 +1,16 @@
+{
+  "name": "property-based-testing-talk",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Tom Fryers",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_OPTIONS='--experimental-vm-modules' jest"
+  },
+  "devDependencies": {
+    "fast-check": "^3.23.2",
+    "jest": "^29.7.0"
+  }
+}

@@ -1,0 +1,10 @@
+overrides:
+  - files:
+      - "*.js"
+      - "*.cjs"
+      - "*.ts"
+    options:
+      tabWidth: 4
+      objectWrap: collapse
+      experimentalTernaries: true
+      experimentalOperatorPosition: start
